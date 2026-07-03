@@ -112,7 +112,7 @@ const styles = {
     background: "#0f172a"
   },
   card: {
-    background: "white",
+    background: "black",
     padding: 30,
     borderRadius: 15,
     width: 400,
