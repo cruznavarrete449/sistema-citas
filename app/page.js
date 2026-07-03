@@ -124,9 +124,11 @@ const styles = {
     gap: 10
   },
   input: {
-    padding: 10,
-    borderRadius: 8,
-    border: "1px solid #111111"
+  padding: 10,
+  borderRadius: 8,
+  border: "1px solid #111111",
+  color: "black"
+
   },
   button: {
     padding: 12,
