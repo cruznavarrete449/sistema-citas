@@ -109,15 +109,14 @@ const styles = {
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    background: "#dbeafe"
+    background: "#0f172a"
   },
   card: {
-    background: "white",
+    background: "black",
     padding: 30,
     borderRadius: 15,
     width: 400,
-    textAlign: "center",
-    boxShadow: "0 10px 25px rgba(0,0,0,0.1)"
+    textAlign: "center"
   },
   form: {
     display: "flex",
@@ -125,11 +124,11 @@ const styles = {
     gap: 10
   },
   input: {
-    padding: 10,
-    borderRadius: 8,
-    border: "1px solid #ccc",
-    fontWeight: "bold",
-    color: "#000"
+  padding: 10,
+  borderRadius: 8,
+  border: "1px solid #111111",
+  color: "black"
+
   },
   button: {
     padding: 12,
@@ -137,7 +136,6 @@ const styles = {
     color: "white",
     border: "none",
     borderRadius: 8,
-    cursor: "pointer",
-    fontWeight: "bold"
+    cursor: "pointer"
   }
 };
