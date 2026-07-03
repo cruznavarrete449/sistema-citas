@@ -126,7 +126,7 @@ const styles = {
   input: {
     padding: 10,
     borderRadius: 8,
-    border: "1px solid #ccc"
+    border: "1px solid #111111"
   },
   button: {
     padding: 12,
